@@ -1,0 +1,47 @@
+.imgHea{
+    width: 300px;
+    border-radius:12em;
+    margin-top: 57px;
+    box-shadow: 0 0 15px #ce5f2d;
+}
+
+.headerone{
+   
+     display: flex;
+    margin-left: 400px;
+}
+
+.Menutwo{
+    font-size: 1.5em;
+    display: flex;
+    width: 400px;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-top: 120px;
+    font-family: cursive;
+    color: white;
+    
+}
+
+.butt:hover{
+    background-color: #ce5f2d;
+    border-radius: 1em;
+    width: 120px;
+    text-align: center;
+    
+    
+}
+
+.contenedor{
+    background-color: #070b16;
+    color: white;
+    height: 100px;
+    text-align: center;
+    font-size: 1.5em;
+    border:2px solid white;
+    box-shadow: 1px 2px 1px white;
+}
+.titulo{
+  margin-top: -0.5px;
+  font-family: cursive;
+}

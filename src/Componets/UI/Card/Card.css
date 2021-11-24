@@ -1,0 +1,45 @@
+.Card {
+    text-align: center;
+    
+  }
+  
+  .card2{
+    background-color: #0f0f11;
+    text-align: center;
+    border: 1px solid blue;
+    width: 350px;
+    height: 370px;
+    margin-left: 550px;
+    border-radius: 2em;
+    margin-top: 90px;
+  
+  }
+  .price{
+    color: white;
+  }
+ 
+  .title{
+    color: white;
+    box-shadow: 2px 3px 2px blue;
+  }
+  .imagf{
+    width: 300px; 
+    border-radius: 2em;
+    box-shadow: 0 0 15px white;
+  }
+  
+  .button1{
+    border-radius: 2em;
+    width: 150px;
+    height: 30px;
+    background-color: #ee9f71;
+  }
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
